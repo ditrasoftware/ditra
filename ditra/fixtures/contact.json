@@ -1,0 +1,176 @@
+[
+ {
+  "address": null,
+  "company_name": null,
+  "department": null,
+  "designation": null,
+  "docstatus": 0,
+  "doctype": "Contact",
+  "email_id": "oxytrack.io@gmail.com",
+  "email_ids": [
+   {
+    "email_id": "oxytrack.io@gmail.com",
+    "is_primary": 1,
+    "parent": "Admin Ditra",
+    "parentfield": "email_ids",
+    "parenttype": "Contact"
+   }
+  ],
+  "first_name": "Admin Ditra",
+  "gender": null,
+  "google_contacts": null,
+  "google_contacts_id": null,
+  "image": "",
+  "is_billing_contact": 0,
+  "is_primary_contact": 0,
+  "last_name": null,
+  "links": [],
+  "middle_name": null,
+  "mobile_no": "",
+  "modified": "2022-09-18 07:04:47.627188",
+  "name": "Admin Ditra",
+  "phone": "",
+  "phone_nos": [],
+  "pulled_from_google_contacts": 0,
+  "salutation": null,
+  "status": "Passive",
+  "sync_with_google_contacts": 0,
+  "unsubscribed": 0,
+  "user": "oxytrack.io@gmail.com"
+ },
+ {
+  "address": null,
+  "company_name": null,
+  "department": null,
+  "designation": null,
+  "docstatus": 0,
+  "doctype": "Contact",
+  "email_id": "harshit@frappe.io",
+  "email_ids": [
+   {
+    "email_id": "harshit@frappe.io",
+    "is_primary": 1,
+    "parent": "Harshit Agrawal",
+    "parentfield": "email_ids",
+    "parenttype": "Contact"
+   }
+  ],
+  "first_name": "Harshit",
+  "gender": null,
+  "google_contacts": null,
+  "google_contacts_id": null,
+  "image": "",
+  "is_billing_contact": 0,
+  "is_primary_contact": 0,
+  "last_name": "Agrawal",
+  "links": [],
+  "middle_name": null,
+  "mobile_no": "",
+  "modified": "2022-09-18 07:04:58.940745",
+  "name": "Harshit Agrawal",
+  "phone": "",
+  "phone_nos": [],
+  "pulled_from_google_contacts": 0,
+  "salutation": null,
+  "status": "Passive",
+  "sync_with_google_contacts": 0,
+  "unsubscribed": 0,
+  "user": null
+ },
+ {
+  "address": null,
+  "company_name": null,
+  "department": null,
+  "designation": null,
+  "docstatus": 0,
+  "doctype": "Contact",
+  "email_id": "Guest",
+  "email_ids": [
+   {
+    "email_id": "Guest",
+    "is_primary": 1,
+    "parent": "Guest-Guest",
+    "parentfield": "email_ids",
+    "parenttype": "Contact"
+   }
+  ],
+  "first_name": "Guest",
+  "gender": null,
+  "google_contacts": null,
+  "google_contacts_id": null,
+  "image": "",
+  "is_billing_contact": 0,
+  "is_primary_contact": 0,
+  "last_name": null,
+  "links": [
+   {
+    "link_doctype": "Customer",
+    "link_name": "Guest",
+    "link_title": "Guest",
+    "parent": "Guest-Guest",
+    "parentfield": "links",
+    "parenttype": "Contact"
+   }
+  ],
+  "middle_name": null,
+  "mobile_no": "",
+  "modified": "2022-09-19 23:41:44.011379",
+  "name": "Guest-Guest",
+  "phone": "",
+  "phone_nos": [],
+  "pulled_from_google_contacts": 0,
+  "salutation": null,
+  "status": "Passive",
+  "sync_with_google_contacts": 0,
+  "unsubscribed": 0,
+  "user": null
+ },
+ {
+  "address": null,
+  "company_name": null,
+  "department": null,
+  "designation": null,
+  "docstatus": 0,
+  "doctype": "Contact",
+  "email_id": "Administrator",
+  "email_ids": [
+   {
+    "email_id": "Administrator",
+    "is_primary": 1,
+    "parent": "Administrator-Administrator",
+    "parentfield": "email_ids",
+    "parenttype": "Contact"
+   }
+  ],
+  "first_name": "Administrator",
+  "gender": null,
+  "google_contacts": null,
+  "google_contacts_id": null,
+  "image": "",
+  "is_billing_contact": 0,
+  "is_primary_contact": 0,
+  "last_name": null,
+  "links": [
+   {
+    "link_doctype": "Customer",
+    "link_name": "Administrator",
+    "link_title": "Administrator",
+    "parent": "Administrator-Administrator",
+    "parentfield": "links",
+    "parenttype": "Contact"
+   }
+  ],
+  "middle_name": null,
+  "mobile_no": "",
+  "modified": "2022-09-19 23:41:55.436181",
+  "name": "Administrator-Administrator",
+  "phone": "",
+  "phone_nos": [],
+  "pulled_from_google_contacts": 0,
+  "salutation": null,
+  "status": "Passive",
+  "sync_with_google_contacts": 0,
+  "unsubscribed": 0,
+  "user": null
+ }
+]

@@ -185,3 +185,84 @@ app_license = "Proprietary"
 # auth_hooks = [
 #	"ditra.auth.validate"
 # ]
+
+fixtures = [
+	# {
+    # 	"dt": "Module Def", 
+    # 	"filters": [["name", "in", ['Ditra']]]
+    # },
+	# {
+    # 	"dt": "Doctype", 
+    # 	"filters": [["name", "in", ['Product','Product Transaction', 'Product Pickup']]]
+    # },
+    {
+		"dt": "Custom Field", 
+    	"filters": [["dt", "in", ["Item", "Patient", "Customer", "Supplier", "Address", "Contact", "Product", "Product Transaction", "Prescription", "Prescription Item"]]]
+    },
+	{
+		"dt": "Property Setter", 
+    	"filters": [["doc_type", "in", ["Item", "Patient", "Customer", "Supplier", "Address", "Contact", "Product", "Product Transaction", "Prescription", "Prescription Item"]]]
+    },
+    # {
+    # 	"dt": "Custom Script"
+	# },
+	{
+		"dt": "Role", 
+    	# "filters": [["name", "in", ["Customer"]]]
+    },
+	{
+		"dt": "Custom DocPerm", 
+    	# "filters": [["role", "in", ["Customer"]]]
+    },
+	{
+    	"dt": "Supplier Group", 
+    },
+	{
+    	"dt": "Supplier", 
+    },
+	{
+    	"dt": "Customer Group"
+	},
+	{
+		"dt": "Address", 
+    	# "or_filters": [["name", "like", "TERGAS%"], ["name", "like", "MAGALDI%"]]
+    },
+	{
+		"dt": "Contact", 
+		# "or_filters": [["name", "like", "TERGAS%"], ["name", "like", "MAGALDI%"]]
+    },
+	{
+    	"dt": "User Group"
+	},
+	{
+    	"dt": "Web Template"
+	},
+	{
+    	"dt": "Website Settings"
+	},
+	{
+    	"dt": "Portal Settings"
+	},
+    {
+    	"dt": "E Commerce Settings"
+	},
+	{
+    	"dt": "Healthcare Settings"
+	},
+	{
+    	"dt": "Domain Settings"
+	},
+	{
+    	"dt": "Item Group", 
+    	# "filters": [["name", "in", ['Gas Tank','Liquid Tank']]]
+    },
+	{
+    	"dt": "Item"
+	},
+    {
+    	"dt": "Website Item"
+	},
+	{
+    	"dt": "Item Price"
+	}
+]

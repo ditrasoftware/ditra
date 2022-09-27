@@ -1,0 +1,54 @@
+[
+ {
+  "allow_items_not_in_stock": 1,
+  "company": "Ditra Software",
+  "default_customer_group": "Individual",
+  "docstatus": 0,
+  "doctype": "E Commerce Settings",
+  "enable_attribute_filters": 0,
+  "enable_checkout": 0,
+  "enable_field_filters": 1,
+  "enable_recommendations": 1,
+  "enable_reviews": 1,
+  "enable_variants": 1,
+  "enable_wishlist": 1,
+  "enabled": 1,
+  "filter_attributes": [],
+  "filter_fields": [
+   {
+    "fieldname": "item_group",
+    "parent": "E Commerce Settings",
+    "parentfield": "filter_fields",
+    "parenttype": "E Commerce Settings"
+   },
+   {
+    "fieldname": "item_code",
+    "parent": "E Commerce Settings",
+    "parentfield": "filter_fields",
+    "parenttype": "E Commerce Settings"
+   }
+  ],
+  "hide_price_for_guest": 0,
+  "hide_variants": 1,
+  "is_redisearch_enabled": 0,
+  "is_redisearch_loaded": 0,
+  "modified": "2022-09-24 00:25:25.000431",
+  "name": "E Commerce Settings",
+  "payment_gateway_account": null,
+  "payment_success_url": "Orders",
+  "price_list": "Standard Selling",
+  "products_per_page": 6,
+  "quotation_series": "QTN-",
+  "redirect_on_action": null,
+  "save_quotations_as_draft": 0,
+  "search_index_fields": null,
+  "show_apply_coupon_code_in_website": 1,
+  "show_attachments": 1,
+  "show_contact_us_button": 1,
+  "show_price": 1,
+  "show_price_in_quotation": 0,
+  "show_quantity_in_website": 1,
+  "show_stock_availability": 1,
+  "slideshow": null
+ }
+]

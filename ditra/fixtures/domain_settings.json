@@ -1,0 +1,22 @@
+[
+ {
+  "active_domains": [
+   {
+    "domain": "Healthcare",
+    "parent": "Domain Settings",
+    "parentfield": "active_domains",
+    "parenttype": "Domain Settings"
+   },
+   {
+    "domain": "Healthcare",
+    "parent": "Domain Settings",
+    "parentfield": "active_domains",
+    "parenttype": "Domain Settings"
+   }
+  ],
+  "docstatus": 0,
+  "doctype": "Domain Settings",
+  "modified": "2022-09-14 00:53:17.700335",
+  "name": "Domain Settings"
+ }
+]

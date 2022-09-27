@@ -1,0 +1,98 @@
+[
+ {
+  "accounts": [],
+  "docstatus": 0,
+  "doctype": "Supplier Group",
+  "is_group": 1,
+  "modified": "2022-09-13 21:37:45.746231",
+  "name": "All Supplier Groups",
+  "old_parent": "",
+  "parent_supplier_group": null,
+  "payment_terms": null,
+  "supplier_group_name": "All Supplier Groups"
+ },
+ {
+  "accounts": [],
+  "docstatus": 0,
+  "doctype": "Supplier Group",
+  "is_group": 0,
+  "modified": "2022-09-13 21:37:45.784100",
+  "name": "Services",
+  "old_parent": "All Supplier Groups",
+  "parent_supplier_group": "All Supplier Groups",
+  "payment_terms": null,
+  "supplier_group_name": "Services"
+ },
+ {
+  "accounts": [],
+  "docstatus": 0,
+  "doctype": "Supplier Group",
+  "is_group": 0,
+  "modified": "2022-09-13 21:37:45.826998",
+  "name": "Local",
+  "old_parent": "All Supplier Groups",
+  "parent_supplier_group": "All Supplier Groups",
+  "payment_terms": null,
+  "supplier_group_name": "Local"
+ },
+ {
+  "accounts": [],
+  "docstatus": 0,
+  "doctype": "Supplier Group",
+  "is_group": 0,
+  "modified": "2022-09-13 21:37:45.866254",
+  "name": "Raw Material",
+  "old_parent": "All Supplier Groups",
+  "parent_supplier_group": "All Supplier Groups",
+  "payment_terms": null,
+  "supplier_group_name": "Raw Material"
+ },
+ {
+  "accounts": [],
+  "docstatus": 0,
+  "doctype": "Supplier Group",
+  "is_group": 0,
+  "modified": "2022-09-13 21:37:45.903614",
+  "name": "Electrical",
+  "old_parent": "All Supplier Groups",
+  "parent_supplier_group": "All Supplier Groups",
+  "payment_terms": null,
+  "supplier_group_name": "Electrical"
+ },
+ {
+  "accounts": [],
+  "docstatus": 0,
+  "doctype": "Supplier Group",
+  "is_group": 0,
+  "modified": "2022-09-13 21:37:45.927203",
+  "name": "Hardware",
+  "old_parent": "All Supplier Groups",
+  "parent_supplier_group": "All Supplier Groups",
+  "payment_terms": null,
+  "supplier_group_name": "Hardware"
+ },
+ {
+  "accounts": [],
+  "docstatus": 0,
+  "doctype": "Supplier Group",
+  "is_group": 0,
+  "modified": "2022-09-13 21:37:45.949190",
+  "name": "Pharmaceutical",
+  "old_parent": "All Supplier Groups",
+  "parent_supplier_group": "All Supplier Groups",
+  "payment_terms": null,
+  "supplier_group_name": "Pharmaceutical"
+ },
+ {
+  "accounts": [],
+  "docstatus": 0,
+  "doctype": "Supplier Group",
+  "is_group": 0,
+  "modified": "2022-09-13 21:37:45.975087",
+  "name": "Distributor",
+  "old_parent": "All Supplier Groups",
+  "parent_supplier_group": "All Supplier Groups",
+  "payment_terms": null,
+  "supplier_group_name": "Distributor"
+ }
+]
