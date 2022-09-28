@@ -215,26 +215,26 @@ fixtures = [
 		"dt": "Custom DocPerm", 
     	# "filters": [["role", "in", ["Customer"]]]
     },
-	{
-    	"dt": "Supplier Group", 
-    },
+	# {
+    # 	"dt": "Supplier Group", 
+    # },
 	{
     	"dt": "Supplier", 
     },
-	{
-    	"dt": "Customer Group"
-	},
+	# {
+    # 	"dt": "Customer Group"
+	# },
 	{
 		"dt": "Address", 
     	# "or_filters": [["name", "like", "TERGAS%"], ["name", "like", "MAGALDI%"]]
     },
-	{
-		"dt": "Contact", 
-		# "or_filters": [["name", "like", "TERGAS%"], ["name", "like", "MAGALDI%"]]
-    },
-	{
-    	"dt": "User Group"
-	},
+	# {
+	# 	"dt": "Contact", 
+	# 	# "or_filters": [["name", "like", "TERGAS%"], ["name", "like", "MAGALDI%"]]
+    # },
+	# {
+    # 	"dt": "User Group"
+	# },
 	{
     	"dt": "Web Template"
 	},
@@ -264,6 +264,10 @@ fixtures = [
     	"dt": "Website Item"
 	},
 	{
-    	"dt": "Item Price"
+    	"dt": "Web Page"
 	}
+
+	# {
+    # 	"dt": "Item Price"
+	# }
 ]
