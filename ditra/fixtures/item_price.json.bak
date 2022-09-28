@@ -1,0 +1,27 @@
+[
+ {
+  "batch_no": null,
+  "brand": null,
+  "buying": 0,
+  "currency": "EUR",
+  "customer": null,
+  "docstatus": 0,
+  "doctype": "Item Price",
+  "item_code": "12345678",
+  "item_description": "Medical Oxygen 20 LITER",
+  "item_name": "Medical Oxygen 20 LITER",
+  "lead_time_days": 0,
+  "modified": "2022-09-19 23:41:01.901548",
+  "name": "ce1fcd4fda",
+  "note": null,
+  "packing_unit": 0,
+  "price_list": "Standard Selling",
+  "price_list_rate": 29.0,
+  "reference": null,
+  "selling": 1,
+  "supplier": null,
+  "uom": "Nos",
+  "valid_from": "2022-09-19",
+  "valid_upto": null
+ }
+]
