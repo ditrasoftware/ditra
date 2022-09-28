@@ -6,7 +6,7 @@ app_publisher = "Ditra Software Srl"
 app_description = "Digital Transformation Platform"
 app_email = "admin@ditra.io"
 app_license = "Proprietary"
-required_apps = ["erpnext", "healthcare"]
+required_apps = ["healthcare"]
 
 # Includes in <head>
 # ------------------
