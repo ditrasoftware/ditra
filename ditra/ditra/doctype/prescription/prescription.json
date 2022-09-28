@@ -6,18 +6,29 @@
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [
-  "nre1"
+  "sb_01_section",
+  "nre1",
+  "nre2"
  ],
  "fields": [
   {
    "fieldname": "nre1",
    "fieldtype": "Barcode",
    "label": "NRE1"
+  },
+  {
+   "fieldname": "nre2",
+   "fieldtype": "Barcode",
+   "label": "NRE2"
+  },
+  {
+   "fieldname": "sb_01_section",
+   "fieldtype": "Section Break"
   }
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2022-09-25 07:56:50.994891",
+ "modified": "2022-09-27 23:47:23.476897",
  "modified_by": "Administrator",
  "module": "Ditra",
  "name": "Prescription",
