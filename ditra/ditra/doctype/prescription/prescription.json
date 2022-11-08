@@ -6,8 +6,8 @@
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [
-  "sb_01_section",
   "nre1",
+  "column_break_3",
   "nre2"
  ],
  "fields": [
@@ -22,13 +22,13 @@
    "label": "NRE2"
   },
   {
-   "fieldname": "sb_01_section",
-   "fieldtype": "Section Break"
+   "fieldname": "column_break_3",
+   "fieldtype": "Column Break"
   }
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2022-09-27 23:47:23.476897",
+ "modified": "2022-10-13 18:59:43.128339",
  "modified_by": "Administrator",
  "module": "Ditra",
  "name": "Prescription",
